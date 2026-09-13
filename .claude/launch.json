@@ -1,0 +1,17 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "familist-api",
+      "runtimeExecutable": "php",
+      "runtimeArgs": ["backend-familist/artisan", "serve", "--host=127.0.0.1", "--port=8035"],
+      "port": 8035
+    },
+    {
+      "name": "familist-web",
+      "runtimeExecutable": "npm",
+      "runtimeArgs": ["--prefix", "frontend-react-familist", "run", "dev"],
+      "port": 3030
+    }
+  ]
+}

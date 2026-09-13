@@ -2,3 +2,6 @@
 .ftpquota
 .well-known/
 cgi-bin/
+deploy-package/
+.claude/worktrees/
+.claude/settings.local.json

@@ -1,0 +1,797 @@
+{
+  "seo": {
+    "title": "Familist | CPS Family Advocate — Nationwide & Worldwide Child Welfare Consultation | Alaska & Ohio",
+    "description": "Nationwide and worldwide CPS consultation with licensed clinical practice in Alaska and Ohio. Expert witness services, case consultation, and trilingual support in Arabic, English, and Spanish. 20+ years child welfare experience.",
+    "keywords": "CPS advocate, family advocate Alaska, OCS help, parent rights CPS, reunification support, expert witness child welfare, Arabic family advocate",
+    "ogImage": ""
+  },
+  "header": {
+    "languages": []
+  },
+  "hero": {
+    "eyebrow": "Licensed Clinical Family Advocacy",
+    "titleStart": "Expert Advocacy for Families Navigating",
+    "titleEmphasis": "Child Welfare",
+    "lead": "Comprehensive support for parents, attorneys, social workers, and caregivers. Case consultation, expert witness testimony, and trilingual Arabic, English, and Spanish services available nationwide and worldwide, with licensed practice in Alaska and Ohio.",
+    "primaryButton": "Schedule Consultation",
+    "secondaryButton": "Our Services",
+    "credentials": [
+      {
+        "value": "20+",
+        "label": "Years Experience"
+      },
+      {
+        "value": "LPC",
+        "label": "Licensed Counselor"
+      },
+      {
+        "value": "LMFT",
+        "label": "Family Therapist"
+      }
+    ],
+    "cards": [
+      {
+        "title": "For Parents",
+        "text": "Know your rights. Navigate case plans. Work toward reunification.",
+        "anchor": "parents"
+      },
+      {
+        "title": "For Social Workers",
+        "text": "Trilingual services to help families meet case plan goals.",
+        "anchor": "socialworkers"
+      },
+      {
+        "title": "For Caregivers",
+        "text": "Support for foster parents, grandparents, and kinship providers.",
+        "anchor": "caregivers"
+      },
+      {
+        "title": "For Attorneys",
+        "text": "Expert witness testimony and forensic case consultation.",
+        "anchor": "attorneys"
+      }
+    ]
+  },
+  "credentialsBar": {
+    "items": [
+      {
+        "icon": "shield",
+        "strong": "Expert Witness",
+        "text": "Services"
+      },
+      {
+        "icon": "cap",
+        "strong": "Forensic",
+        "text": "Neuropsychopathology"
+      },
+      {
+        "icon": "globe",
+        "strong": "Arabic-English-Spanish",
+        "text": "Trilingual"
+      },
+      {
+        "icon": "pin",
+        "strong": "Alaska & Ohio",
+        "text": "Licensed"
+      }
+    ]
+  },
+  "services": {
+    "eyebrow": "Our Services",
+    "title": "Comprehensive Family Advocacy",
+    "lead": "Professional support for families, legal professionals, and caregivers navigating child welfare systems.",
+    "items": [
+      {
+        "title": "Case Plan Assistance",
+        "text": "Breaking down requirements, tracking progress, ensuring compliance with clear documentation."
+      },
+      {
+        "title": "Meeting Support",
+        "text": "Preparation, attendance, detailed minutes, and systematic follow-up on action items."
+      },
+      {
+        "title": "Expert Witness",
+        "text": "Testimony, comprehensive case review, and professional reports for legal proceedings."
+      },
+      {
+        "title": "Documentation",
+        "text": "Contact tracking, progress portfolios, and court-ready compliance summaries."
+      },
+      {
+        "title": "Communication Coaching",
+        "text": "Professional strategies for effective caseworker and court communication."
+      },
+      {
+        "title": "Translation Services",
+        "text": "Trilingual Arabic-English-Spanish advocacy, interpretation, and document translation."
+      },
+      {
+        "title": "Caregiver Support",
+        "text": "Specialized assistance for foster parents, kinship caregivers, and grandparents."
+      },
+      {
+        "title": "Reunification Support",
+        "text": "Case plan compliance, progress documentation, and court preparation services."
+      }
+    ],
+    "processEyebrow": "How We Help",
+    "processTitle": "Our Process",
+    "steps": [
+      {
+        "title": "Consultation",
+        "text": "Tell us about your situation"
+      },
+      {
+        "title": "Assessment",
+        "text": "We review and identify solutions"
+      },
+      {
+        "title": "Action Plan",
+        "text": "Clear goals and timelines"
+      },
+      {
+        "title": "Ongoing Support",
+        "text": "We work alongside you"
+      }
+    ]
+  },
+  "inlineCta": {
+    "title": "Need Immediate Help with a CPS Case?",
+    "text": "Schedule a 30-minute urgent consultation with our licensed clinician.",
+    "button": "Book Now"
+  },
+  "attorneys": {
+    "eyebrow": "For Legal Professionals",
+    "title": "Attorney & GAL Services",
+    "lead": "Expert consultation, witness services, and case support for child welfare legal matters.",
+    "heading": "Expert Witness & Consultation",
+    "body": "Our licensed clinicians provide expert services for attorneys, Guardians ad Litem, and courts handling child welfare, custody, and dependency cases. With over two decades of experience across psychiatric emergency, correctional, child welfare, and adult protective settings, we offer comprehensive forensic expertise.",
+    "services": [
+      "Expert Witness Testimony",
+      "Case Consultation & Strategy",
+      "Record Review & Analysis",
+      "Written Expert Reports",
+      "Cultural-Forensic Assessment",
+      "GAL Support Services"
+    ],
+    "button": "Request Consultation",
+    "credentialsTitle": "Credentials",
+    "credentials": [
+      "Licensed Professional Counselor (LPC)",
+      "Licensed Marriage & Family Therapist (LMFT)",
+      "Doctoral Candidate, Clinical Psychology",
+      "Forensic Neuropsychopathology Concentration",
+      "20+ Years Clinical Experience",
+      "Trilingual: English & Arabic"
+    ],
+    "practiceAreasTitle": "Practice Areas",
+    "practiceAreas": [
+      "Child Abuse/Neglect",
+      "Dependency",
+      "Custody",
+      "TPR",
+      "Cultural Factors",
+      "Trauma"
+    ]
+  },
+  "socialWorkers": {
+    "eyebrow": "For Social Workers & Caseworkers",
+    "title": "Resources for Your Families",
+    "lead": "Culturally competent services to help families on your caseload meet case plan requirements.",
+    "heading": "A Partner for Your Caseload",
+    "body": "You want families to succeed, but barriers like language, culture, and limited resources can slow progress. We provide the support families need to complete case plan requirements—in their language, with cultural competence, and with consistent follow-through.",
+    "languageTitle": "Trilingual Services",
+    "languageText": "English & Arabic (العربية)",
+    "button": "Refer a Family",
+    "whyTitle": "Why Refer to Familist",
+    "why": [
+      "Services delivered in parent's language",
+      "Cultural competence & understanding",
+      "Progress reports for your case files",
+      "Regular updates on family progress",
+      "Licensed clinicians, 20+ years experience",
+      "Understanding of OCS/PCSA processes"
+    ],
+    "cards": [
+      {
+        "title": "Case Plan Support",
+        "text": "We help families understand and complete every requirement.",
+        "points": [
+          "Breaking down requirements in plain language",
+          "Weekly check-ins and goal tracking",
+          "Service coordination and referrals",
+          "Progress documentation for your records"
+        ]
+      },
+      {
+        "title": "Reunification Services",
+        "text": "Comprehensive support to help families meet benchmarks.",
+        "points": [
+          "Case plan compliance tracking",
+          "Visitation preparation and support",
+          "Court hearing preparation",
+          "Progress portfolios for review hearings"
+        ]
+      },
+      {
+        "title": "Cultural Bridge Services",
+        "text": "Serving families from diverse cultural backgrounds.",
+        "points": [
+          "Arabic-English-Spanish interpretation for meetings",
+          "Document translation",
+          "Cultural context and consultation",
+          "Immigration-sensitive advocacy"
+        ]
+      },
+      {
+        "title": "Parent Education",
+        "text": "Culturally competent education in the family's language.",
+        "points": [
+          "Parenting skills in Arabic or English",
+          "Trauma-informed approaches",
+          "Communication and conflict resolution",
+          "Completion certificates for case files"
+        ]
+      }
+    ]
+  },
+  "parents": {
+    "eyebrow": "For Parents",
+    "title": "Support for Parents Facing CPS",
+    "lead": "Understand your rights, navigate case plans, and work toward reunification.",
+    "rights": {
+      "tabLabel": "Know Your Rights",
+      "title": "Understanding Your Rights",
+      "body": "A CPS investigation can feel overwhelming. Understanding your rights and the process helps you protect your family and work toward the best outcome.",
+      "button": "Get Support Now",
+      "boxTitle": "Your Rights During Investigation",
+      "items": [
+        {
+          "strong": "Right to know allegations",
+          "text": "CPS must inform you"
+        },
+        {
+          "strong": "Right to an attorney",
+          "text": "Consult before speaking"
+        },
+        {
+          "strong": "Right to refuse entry",
+          "text": "Without court order"
+        },
+        {
+          "strong": "Right to remain silent",
+          "text": "Limited answers allowed"
+        },
+        {
+          "strong": "Right to support person",
+          "text": "Bring someone"
+        },
+        {
+          "strong": "Right to record",
+          "text": "Many states allow it"
+        },
+        {
+          "strong": "Right to appeal",
+          "text": "Challenge determinations"
+        }
+      ]
+    },
+    "casePlan": {
+      "tabLabel": "Case Plan Help",
+      "title": "Navigating Your Case Plan",
+      "body": "Your case plan is a roadmap to reunification. We help you understand every requirement, stay organized, and document your compliance.",
+      "cards": [
+        {
+          "title": "Case Plan Navigation",
+          "text": "Breaking down requirements into achievable steps.",
+          "points": [
+            "Line-by-line review",
+            "Weekly goal setting",
+            "Deadline tracking",
+            "Progress portfolio"
+          ]
+        },
+        {
+          "title": "Meeting Preparation",
+          "text": "Never attend a CPS meeting unprepared.",
+          "points": [
+            "Pre-meeting coaching",
+            "In-person attendance",
+            "Minutes within 24 hours",
+            "Action item follow-up"
+          ]
+        },
+        {
+          "title": "Documentation",
+          "text": "Creating a clear paper trail of compliance.",
+          "points": [
+            "Contact tracking",
+            "Certificate organization",
+            "Court-ready summaries",
+            "Timeline documentation"
+          ]
+        },
+        {
+          "title": "Communication",
+          "text": "Professional caseworker strategies.",
+          "points": [
+            "Email/letter templates",
+            "Verbal communication",
+            "De-escalation techniques",
+            "Proactive updates"
+          ]
+        }
+      ]
+    },
+    "reunification": {
+      "tabLabel": "Reunification",
+      "title": "Your Path to Reunification",
+      "body": "Reunification is the primary goal in most child welfare cases. Success depends on completing your case plan, documenting your progress, and demonstrating lasting change.",
+      "button": "Start Your Journey",
+      "timelineTitle": "Typical Timeline",
+      "timeline": [
+        {
+          "title": "Case Plan Development",
+          "text": "Within 30-60 days"
+        },
+        {
+          "title": "Service Engagement",
+          "text": "Begin immediately"
+        },
+        {
+          "title": "Review Hearings",
+          "text": "Every 3-6 months"
+        },
+        {
+          "title": "Reunification",
+          "text": "6-24 months"
+        }
+      ],
+      "cards": [
+        {
+          "title": "Case Plan Compliance",
+          "text": "Clear, actionable steps with deadlines.",
+          "points": [
+            "Line-by-line analysis",
+            "Weekly goal-setting",
+            "Service coordination",
+            "Calendar management"
+          ]
+        },
+        {
+          "title": "Progress Documentation",
+          "text": "Build your Progress Portfolio.",
+          "points": [
+            "Certificate documentation",
+            "Service provider letters",
+            "Contact logs",
+            "Court-ready summaries"
+          ]
+        },
+        {
+          "title": "Court Preparation",
+          "text": "Show the judge your dedication.",
+          "points": [
+            "Pre-hearing preparation",
+            "Document organization",
+            "Progress narrative",
+            "Attorney coordination"
+          ]
+        },
+        {
+          "title": "Visitation Support",
+          "text": "Make the most of every visit.",
+          "points": [
+            "Visit preparation",
+            "Activity planning",
+            "Visit documentation",
+            "Addressing concerns"
+          ]
+        }
+      ],
+      "keysTitle": "Keys to Successful Reunification",
+      "keys": [
+        {
+          "title": "Complete All Services",
+          "text": "Finish every program—actively participate."
+        },
+        {
+          "title": "Document Everything",
+          "text": "If it's not documented, it didn't happen."
+        },
+        {
+          "title": "Maintain Contact",
+          "text": "Proactively update your caseworker."
+        },
+        {
+          "title": "Attend Every Visit",
+          "text": "Never miss a scheduled visit."
+        },
+        {
+          "title": "Address Root Issues",
+          "text": "Demonstrate genuine behavioral change."
+        },
+        {
+          "title": "Prepare for Hearings",
+          "text": "Arrive on time, organized, and ready."
+        }
+      ]
+    }
+  },
+  "caregivers": {
+    "eyebrow": "For Caregivers",
+    "title": "Foster Parents, Grandparents & Kinship",
+    "lead": "Support for everyone caring for children in the child welfare system.",
+    "foster": {
+      "tabLabel": "Foster Parents",
+      "title": "Support for Foster Parents",
+      "body": "Foster parenting is rewarding but challenging. We help you navigate the system, advocate for children, and access resources.",
+      "points": [
+        "Licensing process navigation",
+        "Trauma-informed parenting resources",
+        "Managing challenging behaviors",
+        "Advocating for children's needs",
+        "Communication with caseworkers",
+        "Permanency planning support"
+      ],
+      "sideTitle": "Common Challenges",
+      "sidePoints": [
+        "Feeling ill-equipped for trauma responses",
+        "Navigating complex bureaucracy",
+        "Balancing reunification with bonding",
+        "Accessing mental health services",
+        "Managing birth family contact",
+        "Understanding your rights as a caregiver"
+      ]
+    },
+    "kinship": {
+      "tabLabel": "Grandparents & Kinship",
+      "title": "Grandparents & Kinship Caregivers",
+      "body": "When family steps in to care for children, navigating the system and accessing support can be overwhelming. We're here to help.",
+      "points": [
+        "Understanding formal vs. informal kinship care",
+        "Guardianship options and processes",
+        "Financial assistance programs",
+        "Healthcare and education enrollment",
+        "Managing family dynamics",
+        "Legal rights and responsibilities"
+      ],
+      "assistanceTitle": "Financial Assistance Options",
+      "assistance": [
+        "Child-Only TANF",
+        "Foster Care Payments",
+        "Kinship GAP (KinGAP)",
+        "SNAP Benefits",
+        "Medicaid for Children",
+        "Child Tax Credits"
+      ]
+    },
+    "family": {
+      "tabLabel": "Family Supporters",
+      "title": "Supporting a Family Member",
+      "body": "When someone you care about is involved with CPS, knowing how to help—and what not to do—matters.",
+      "points": [
+        "Offer to attend meetings as support person",
+        "Help with transportation to services",
+        "Assist with documentation and organization",
+        "Provide childcare during appointments",
+        "Offer emotional support without judgment",
+        "Help research resources and programs"
+      ],
+      "sideTitle": "What to Avoid",
+      "sidePoints": [
+        "Speaking to caseworkers without permission",
+        "Criticizing CPS workers publicly",
+        "Enabling behaviors that led to involvement",
+        "Interfering with case plan requirements",
+        "Making promises you cannot keep",
+        "Sharing case details on social media"
+      ]
+    }
+  },
+  "immigration": {
+    "eyebrow": "Immigration & Trilingual Services",
+    "title": "Advocacy for Immigrant Families",
+    "body": "Language and cultural barriers should not prevent families from successfully navigating child welfare systems. Our trilingual services bridge that gap.",
+    "arabicText": "نحن هنا لمساعدتكم",
+    "arabicTranslation": "We Are Here to Help You",
+    "button": "Request Trilingual Services",
+    "items": [
+      "Arabic-English-Spanish case plan coaching",
+      "Meeting interpretation services",
+      "Document translation",
+      "Cultural bridge consulting",
+      "Immigration-sensitive advocacy",
+      "Parent education in Arabic"
+    ]
+  },
+  "resources": {
+    "eyebrow": "Resources & Training",
+    "title": "Education & Professional Development",
+    "lead": "Free resources, educational content, and training programs for families and advocates.",
+    "media": {
+      "tabLabel": "Blog & Media",
+      "podcastTitle": "The Familist Podcast",
+      "podcastText": "Expert interviews, reunification success stories, and practical guidance for families.",
+      "newsletterTitle": "Newsletter",
+      "newsletterText": "Monthly updates with tips, policy changes, and resources for families and advocates.",
+      "newsletterButton": "Subscribe",
+      "blogTitle": "Blog Articles",
+      "blogText": "In-depth articles on CPS processes, parent rights, and reunification strategies.",
+      "topicsTitle": "Topics We Cover",
+      "topics": [
+        "Parent Rights",
+        "Case Plans",
+        "Reunification",
+        "Documentation",
+        "Kinship Care",
+        "Foster Care",
+        "Alaska OCS",
+        "Ohio PCSA",
+        "Immigrant Rights",
+        "Cultural Factors"
+      ]
+    },
+    "library": {
+      "tabLabel": "Resource Library",
+      "items": [
+        {
+          "icon": "file",
+          "title": "Know Your Rights Guide",
+          "text": "Comprehensive guide to parent rights during CPS investigations.",
+          "url": ""
+        },
+        {
+          "icon": "calendar",
+          "title": "Case Plan Tracker",
+          "text": "Printable tracker for managing requirements and deadlines.",
+          "url": ""
+        },
+        {
+          "icon": "checkbox",
+          "title": "Meeting Prep Checklist",
+          "text": "Step-by-step checklist for CPS meeting preparation.",
+          "url": ""
+        },
+        {
+          "icon": "folder",
+          "title": "Documentation Templates",
+          "text": "Contact logs, progress summaries, and organizational templates.",
+          "url": ""
+        },
+        {
+          "icon": "user",
+          "title": "Kinship Care Guide",
+          "text": "Financial assistance options and resources for relatives.",
+          "url": ""
+        },
+        {
+          "icon": "home",
+          "title": "Reunification Roadmap",
+          "text": "Step-by-step guide to working toward reunification.",
+          "url": ""
+        }
+      ]
+    },
+    "training": {
+      "tabLabel": "Training Program",
+      "title": "Become a Certified Family Advocate",
+      "body": "Many effective family advocates have lived experience navigating child welfare. Our training transforms that experience into professional expertise.",
+      "modules": [
+        {
+          "title": "CPS Systems & Processes",
+          "text": "How child protective services operates"
+        },
+        {
+          "title": "Documentation Standards",
+          "text": "Professional record-keeping and tracking"
+        },
+        {
+          "title": "Trauma-Informed Care",
+          "text": "Understanding trauma responses"
+        },
+        {
+          "title": "Cultural Competence",
+          "text": "Serving diverse families"
+        },
+        {
+          "title": "Professional Communication",
+          "text": "Working with caseworkers and courts"
+        },
+        {
+          "title": "Ethics & Boundaries",
+          "text": "Maintaining professional standards"
+        }
+      ],
+      "applyTitle": "Who Should Apply",
+      "apply": [
+        "Parents with lived CPS experience",
+        "Social work professionals",
+        "Community advocates",
+        "Former foster youth",
+        "Anyone passionate about family preservation"
+      ],
+      "certNotice": "Training aligns with Certified Family Peer Specialist (CFPS) credential pathways.",
+      "button": "Inquire About Training"
+    }
+  },
+  "store": {
+    "eyebrow": "Shop",
+    "title": "Familist Store",
+    "lead": "Merchandise and resources to support your advocacy journey.",
+    "intro": "Show your support for family advocacy with Familist merchandise. A portion of every purchase supports our mission to help families navigate child welfare systems.",
+    "ctaTitle": "Be Notified When the Store Launches",
+    "ctaText": "Subscribe to our newsletter for updates on new merchandise and exclusive discounts.",
+    "ctaButton": "Subscribe for Updates"
+  },
+  "freeGuides": {
+    "eyebrow": "Free Resources",
+    "title": "Download Your Free Parent Rights Guide",
+    "body": "Get access to our guides written by a licensed clinician with 20+ years of child welfare experience. Understand your rights, navigate case plans, and protect your family.",
+    "guides": [
+      "Know Your Rights Guide",
+      "Case Plan Checklist",
+      "Meeting Prep Template",
+      "Documentation Log"
+    ],
+    "formTitle": "Get Your Free Guides",
+    "formText": "Enter your details and we will email your guides.",
+    "button": "Send Me the Free Guides",
+    "note": "We respect your privacy. Unsubscribe anytime.",
+    "successTitle": "Thank you!",
+    "successText": "You're on the list. We'll email your free guides as soon as they're ready."
+  },
+  "testimonials": {
+    "eyebrow": "Client Success Stories",
+    "title": "Families We Have Helped",
+    "lead": "Real experiences from parents, attorneys, and social workers who have worked with Familist."
+  },
+  "videoTestimonials": {
+    "eyebrow": "Real Stories",
+    "title": "Hear From Families We Have Helped",
+    "lead": "Watch real families share their reunification journeys and how expert advocacy made the difference."
+  },
+  "caseStudies": {
+    "eyebrow": "Success Stories",
+    "title": "Reunification Case Studies",
+    "lead": "Real outcomes from families who received comprehensive advocacy support.",
+    "button": "Start Your Success Story"
+  },
+  "faq": {
+    "eyebrow": "Common Questions",
+    "title": "Frequently Asked Questions",
+    "lead": "Answers to the most common questions about CPS cases and our services."
+  },
+  "trustBadges": {
+    "items": [
+      {
+        "icon": "shieldOutline",
+        "text": "Licensed & Insured"
+      },
+      {
+        "icon": "checkCircle",
+        "text": "20+ Years Experience"
+      },
+      {
+        "icon": "globe",
+        "text": "Trilingual Services"
+      },
+      {
+        "icon": "lock",
+        "text": "Confidential & Secure"
+      }
+    ]
+  },
+  "about": {
+    "eyebrow": "About Us",
+    "title": "The Familist CPS Advocacy Model",
+    "paragraphs": [
+      "This service was created by a dual board-certified mental health clinician with extensive CPS system experience. Our familist approach recognizes that child safety, parental capacity, and family stability are interconnected—allowing families to receive guidance that aligns with how CPS actually evaluates risk, progress, and parental capacity while strengthening the entire family system.",
+      "A familist approach recognizes that child safety, parental capacity, and family stability are interconnected. Rather than focusing on blame or punishment, familist CPS advocacy strengthens the entire family system—supporting parents, caregivers, and children together—while aligning with CPS expectations and court requirements."
+    ],
+    "credentials": [
+      {
+        "icon": "badge",
+        "text": "Dual Board-Certified Mental Health Clinician"
+      },
+      {
+        "icon": "fileSimple",
+        "text": "Former CPS Professional Experience"
+      },
+      {
+        "icon": "globe",
+        "text": "Nationwide & International Telehealth Services"
+      },
+      {
+        "icon": "heart",
+        "text": "Sliding-Scale Options Available"
+      }
+    ],
+    "image": "",
+    "modelTitle": "The Familist Model",
+    "modelTop": "Child Safety",
+    "modelMiddle": [
+      {
+        "title": "Trauma-Informed",
+        "text": "Emotional Regulation"
+      },
+      {
+        "title": "Parental Capacity",
+        "text": "& Skills"
+      },
+      {
+        "title": "CPS Requirements",
+        "text": "& Compliance"
+      }
+    ],
+    "modelBottomTitle": "Family System",
+    "modelBottomText": "Attachment • Stability • Support • Structure"
+  },
+  "contact": {
+    "eyebrow": "Get in Touch",
+    "title": "Schedule a Consultation",
+    "tagline": "For More Information"
+  },
+  "getStarted": {
+    "title": "Ready to Take the Next Step?",
+    "lead": "Whether you need immediate guidance or self-paced training, we have options designed for parents and caregivers facing CPS involvement.",
+    "consultationTitle": "Book a Session Now",
+    "consultationText": "Schedule a confidential consultation with a dual board-certified clinician. Get personalized guidance for your specific situation.",
+    "consultationFeatures": [
+      "One-on-one expert consultation",
+      "Case-specific guidance",
+      "Immediate scheduling available",
+      "Telehealth or phone options"
+    ],
+    "consultationButton": "Schedule Consultation",
+    "trainingTitle": "CPS Crisis Training",
+    "trainingText": "On-demand recorded training for parents and caregivers who need urgent support navigating CPS involvement.",
+    "trainingFeatures": [
+      "What to do in the first 48 hours",
+      "Understanding your rights",
+      "Case plan compliance strategies",
+      "Documentation templates included",
+      "Lifetime access to materials"
+    ],
+    "trainingButton": "Enroll Now"
+  },
+  "bookingModal": {
+    "title": "Urgent CPS Consultation",
+    "text": "Get immediate expert guidance for your situation",
+    "button": "Book Now — Pay",
+    "note": "Payment is processed securely by Stripe. You will receive a confirmation email with scheduling details.",
+    "successTitle": "Consultation Requested!",
+    "successText": "We've received your request and will contact you shortly to confirm your consultation time."
+  },
+  "trainingModal": {
+    "title": "CPS Crisis Training",
+    "text": "Immediate access to on-demand support",
+    "featuresTitle": "What You Will Get:",
+    "features": [
+      "Video training: What to do in the first 48 hours",
+      "Understanding your rights with CPS",
+      "Case plan compliance strategies",
+      "Downloadable documentation templates",
+      "Meeting preparation checklists"
+    ],
+    "button": "Enroll Now",
+    "note": "Secure checkout by Stripe.",
+    "successTitle": "Enrollment Received!",
+    "successText": "We've received your enrollment and will email your access details shortly."
+  },
+  "exitPopup": {
+    "enabled": true,
+    "title": "Wait — Before You Go!",
+    "text": "Get our free CPS survival guides",
+    "guides": [
+      "Parent Rights Guide",
+      "Case Plan Checklist",
+      "Meeting Prep Template",
+      "Documentation Log"
+    ],
+    "button": "Send Me the Free Guides",
+    "skip": "No thanks",
+    "successTitle": "You're on the list!",
+    "successText": "We'll email your free guides as soon as they're ready."
+  }
+}

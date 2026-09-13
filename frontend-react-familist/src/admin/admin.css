@@ -1,0 +1,24 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  body {
+    @apply bg-ivory font-sans text-ink antialiased;
+  }
+}
+
+/* Rich-text editor content (TipTap). */
+@layer components {
+  .prose-cms { font-size: 0.98rem; line-height: 1.7; color: #1a1a2e; }
+  .prose-cms h2 { font-family: 'Playfair Display', Georgia, serif; font-size: 1.4rem; margin: 1rem 0 0.4rem; }
+  .prose-cms h3 { font-family: 'Playfair Display', Georgia, serif; font-size: 1.12rem; margin: 0.9rem 0 0.3rem; }
+  .prose-cms p { margin: 0 0 0.7rem; }
+  .prose-cms ul, .prose-cms ol { margin: 0 0 0.7rem; padding-left: 1.4rem; }
+  .prose-cms ul { list-style: disc; }
+  .prose-cms ol { list-style: decimal; }
+  .prose-cms a { color: #9a7b14; text-decoration: underline; }
+  .prose-cms blockquote { margin: 0.7rem 0; padding-left: 0.9rem; border-left: 3px solid #c9a227; font-style: italic; }
+  .prose-cms img { max-width: 100%; }
+  .prose-cms:focus { outline: none; }
+}
