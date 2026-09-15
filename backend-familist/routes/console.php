@@ -23,7 +23,7 @@ Artisan::command('familist:install', function () {
             return 1;
         }
         $this->call('db:seed', ['--force' => true]);
-        $this->info('Installed. Remove ADMIN_PASSWORD from .env and delete the install cron job.');
+        $this->info('Installed. Remove ADMIN_PASSWORD from .env (and the install cron job, if one was used).');
     } else {
         $this->info('Up to date. Content was not changed.');
     }

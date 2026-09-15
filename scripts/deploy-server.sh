@@ -50,7 +50,8 @@ cp dist/index.html dist/favicon.svg "$BACKEND/public/"
 echo "→ Database (migrations; launch content only on an empty site)"
 cd "$BACKEND"
 mkdir -p storage/framework/{cache/data,sessions,views} storage/logs bootstrap/cache public/uploads
-php artisan optimize:clear >/dev/null
+# Only the config cache here: the database cache table may not exist before the first migration.
+php artisan config:clear >/dev/null
 php artisan familist:install
 
 echo "→ Caches"
