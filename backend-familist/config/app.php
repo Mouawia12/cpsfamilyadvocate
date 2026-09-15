@@ -55,6 +55,12 @@ return [
     'url' => env('APP_URL', 'http://localhost'),
 
     /*
+    | Whether search engines may index this deployment. Set SEO_INDEXABLE=false
+    | on staging / preview domains so they never compete with the real site.
+    */
+    'indexable' => (bool) env('SEO_INDEXABLE', true),
+
+    /*
     |--------------------------------------------------------------------------
     | Application Timezone
     |--------------------------------------------------------------------------

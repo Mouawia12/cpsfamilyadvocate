@@ -52,6 +52,10 @@ class SitemapController extends Controller
 
     public function robots(): Response
     {
+        if (! config('app.indexable')) {
+            return response("User-agent: *\nDisallow: /\n", 200)->header('Content-Type', 'text/plain; charset=UTF-8');
+        }
+
         $body = implode("\n", [
             'User-agent: *',
             'Disallow: /admin',

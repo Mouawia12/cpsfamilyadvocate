@@ -175,6 +175,7 @@ class SpaController extends Controller
             title: $title,
             description: $description,
             canonical: $canonical,
+            index: (bool) config('app.indexable'),
             siteName: $settings['brandName'] ?? 'Familist',
         );
     }

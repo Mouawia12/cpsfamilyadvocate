@@ -11,7 +11,8 @@ cpsfamilyadvocate/
 ├── backend-familist/          # Laravel 13 API + يخدم الواجهة المبنية (SEO من الخادم)
 ├── frontend-react-familist/   # React 19 + TS — src/site (CSS التصميم الأصلي) و src/admin (Tailwind)
 ├── design-source/             # التصميم المعتمد — المصدر الوحيد للحقيقة
-├── scripts/build-deploy.sh    # يبني deploy-package/familist-app.zip
+├── scripts/build-deploy.sh    # يبني deploy-package/familist-app.zip (استضافة cPanel)
+├── scripts/deploy-server.sh   # نشر/تحديث على VPS (سحب، بناء، هجرات، كاش)
 ├── PLAN.md                    # القرارات والمراحل
 └── DEPLOY-GUIDE.md            # النشر على GoDaddy cPanel بلا SSH
 ```

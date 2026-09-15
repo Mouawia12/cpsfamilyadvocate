@@ -67,6 +67,18 @@ class SpaShellTest extends TestCase
         $this->getJson('/api/v1/nope')->assertNotFound()->assertJsonPath('success', false);
     }
 
+    public function test_staging_deployments_are_never_indexed(): void
+    {
+        config(['app.indexable' => false]);
+
+        $response = $this->get('/')->assertOk();
+        $this->assertStringContainsString('noindex, nofollow', $response->getContent());
+        $this->assertStringNotContainsString('rel="canonical"', $response->getContent());
+        $response->assertHeader('X-Robots-Tag', 'noindex, nofollow');
+
+        $this->get('/robots.txt')->assertOk()->assertSee('Disallow: /')->assertDontSee('Sitemap:');
+    }
+
     public function test_admin_shell_is_not_indexed_and_sitemap_lists_articles(): void
     {
         $this->get('/admin/articles')->assertOk()->assertSee('noindex, nofollow', false);
