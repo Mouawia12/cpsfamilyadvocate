@@ -1,3 +1,7 @@
+# public/ holds both index.php and the built SPA shell index.html. The shell must
+# always go through Laravel (SEO tags + data), never be served directly.
+DirectoryIndex index.php
+
 <IfModule mod_rewrite.c>
     <IfModule mod_negotiation.c>
         Options -MultiViews -Indexes
@@ -5,11 +9,8 @@
 
     RewriteEngine On
 
-    # Always HTTPS (the certificate comes from cPanel AutoSSL).
-    RewriteCond %{HTTPS} !=on
-    RewriteCond %{HTTP:X-Forwarded-Proto} !=https
-    RewriteCond %{HTTP_HOST} !^(localhost|127\.0\.0\.1)
-    RewriteRule ^ https://%{HTTP_HOST}%{REQUEST_URI} [L,R=301]
+    # HTTP → HTTPS is left to the panel ("Force HTTPS" in cPanel / HestiaCP): behind
+    # a TLS-terminating proxy Apache can see plain http and a rule here would loop.
 
     # One canonical host: www.cpsfamilyadvocate.com
     RewriteCond %{HTTP_HOST} ^cpsfamilyadvocate\.com$ [NC]

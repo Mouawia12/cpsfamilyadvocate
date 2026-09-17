@@ -105,7 +105,7 @@ familist-app/public
 ## 8) SSL
 
 cPanel → **SSL/TLS Status** → تأكد أن AutoSSL يغطي `cpsfamilyadvocate.com` **و** `www.cpsfamilyadvocate.com` → **Run AutoSSL** إن لزم.
-الـ `.htaccess` يحوّل كل الزيارات إلى `https://www.`.
+ثم cPanel → **Domains** → فعّل **Force HTTPS Redirect** للدومين. الـ `.htaccess` يحوّل `cpsfamilyadvocate.com` إلى `www`.
 
 ## 9) Stripe (عند وصول المفاتيح)
 
